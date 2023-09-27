@@ -11,13 +11,47 @@ Welcome to Axudus' Random Shell Shockers Mods repository, a collection of variou
 
 ## Available Mods
 
-Here are some of the mods available in this repository:
+Here are some of the mods available* in this repository:
 
-1. [**Spawned Mod**](https://github.com/CaptainCluck14/Random/blob/main/spawned_mod_with_guns.js): Displays whether players have spawned and what weapons they have.
-2. [**Compass Mod**](https://github.com/CaptainCluck14/Random/blob/main/compass.js): A really useful mod if you're looking to win in competitive play! (if allowed)
-3. [**Coup Color Changer**](https://github.com/CaptainCluck14/Random/blob/main/kotc_colors.js): Ability to change the default colors of Coup; If you can figure it out, it could be cool for themes.
+1. [**Spawned Mod**](https://github.com/CaptainCluck14/Random/blob/main/spawned_mod_with_guns.js) - Displays whether players have spawned and what weapons they have.
+2. [**Compass Mod**](https://github.com/CaptainCluck14/Random/blob/main/compass.js) - A really useful mod if you're looking to win in competitive play! (if allowed)
+3. [**Coup Color Changer**](https://github.com/CaptainCluck14/Random/blob/main/kotc_colors.js) - Ability to change the default colors of Coup; If you can figure it out, it could be cool for themes.
+4. **Pablo Mod** -
+5. **Minimap Mod** -
+6. **Fog Mod** -
+7. **Night Mode Mod** -
+8. **Sky Changer** -
+9. **Map Builder** -
+10. **FPS "Faker"** -
+11. **FPV Mod** - *no point posting anymore*
+12. **Replay Mod** -
+13. **Car Mod** -
+14. **"Advance" Stats Mod (KOTC)** -
+15. **Barrier Revealer Mod** -
+16. **"Split Screen" Mod** -
+17. **Ping "Faker"** -
+18. **Damage Indicators Mod** -
+19. **Map Scaling/Rotation Mod** - really useful
+20. **Message Counter Mod** -
+21. **Blocked Chat Revealer Mod** -
+22. **Anticipated Terminal Spatial Arrangement of Munition Mod** -
+23. **ADS Sensitivity Customizer** -
+24. **Shell Color Customizer** -
+25. **Legacy Weapons Mod** -
+26. **Legacy Sounds Mod** -
+27. **"Unreleased" Items Mod** -
+<br/>&#8595; *primarily for Cinematics &#8595;*
+28. **"Slow-Motion"** -
+29. **Freeze Frame** -
+30. **Object Tracker** -
+31. **FOV Customizer**;
+32. **"SplineFlow" Mod** -
+33. **Skin Swapper** -
+34. **UI Toggler** -
+35. **"Green Screen" Mod** -
 
-Also, be sure to check out another mod by Axudus in a separate repository: [**Public Stats Mod**](https://github.com/CaptainCluck14/public_stats_mod), which can be used to track stats for KOTC (King of the Coup).
+
+Also, be sure to check out another mod by Axudus in a separate repository: [**Public Stats Mod**](https://github.com/CaptainCluck14/public_stats_mod), which can be used to track basic stats for KOTC (King of the Coup).
 
 Feel free to explore these mods and try them out!
 
