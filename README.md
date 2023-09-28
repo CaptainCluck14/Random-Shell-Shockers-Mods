@@ -13,7 +13,7 @@ Welcome to Axudus' Random Shell Shockers Mods repository, a collection of variou
 
 Explore the diverse range of mods available in this repository:
 
-| Mod Name                                     | Description                                                                                                | Mod Link                                                         |
+| Mod Name                                     | Description                                                                                                | Link                                                         |
 |---------------------------------------------|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
 | **Spawned Mod**                             | Displays player spawn status and equipped weapons.                                                        | [Link](https://github.com/CaptainCluck14/Random/blob/main/spawned_mod_with_guns.js)      |
 | **Compass Mod**                             | A valuable tool for competitive play (if allowed).                                                       | [Link](https://github.com/CaptainCluck14/Random/blob/main/compass.js)                 |
